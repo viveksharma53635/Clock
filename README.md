@@ -1,1 +1,1 @@
-“This project was developed using HTML, CSS, and JavaScript.”
+This project was developed using HTML, CSS, and JavaScript.
