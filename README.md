@@ -1,1 +1,1 @@
-This is Project made by HTML,CSS and JAVASCRIPT.
+“This project was developed using HTML, CSS, and JavaScript.”
